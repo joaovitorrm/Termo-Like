@@ -4,7 +4,7 @@
 
 This is a React + TypeScript + Vite setup in the frontend, and a Node.js server with Express and Axios in the backend.
 
-This project is a copy of the game Termo, where you have to guess the word using other words that will give you hints about the word that you are trying to guess.
+This project is an attempt to make the game Termo, where you have to guess the word using other words that will give you hints about the word that you are trying to guess.
 
 It is in __Brazilian portuguese__, but it could be in other languages depending on the API.
 
